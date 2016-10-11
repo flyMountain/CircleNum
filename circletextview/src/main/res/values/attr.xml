@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="titleText" format="string" />
+    <attr name="titleTextColor" format="color" />
+    <attr name="titleTextSize" format="dimension" />
+    <attr name="paddingLeft" format="dimension"/>
+    <attr name="paddingRight" format="dimension"/>
+    <attr name="paddingTop" format="dimension"/>
+    <attr name="paddingBottom" format="dimension"/>
+    <attr name="backgroundColor" format="color"/>
+    <attr name="padding" format="dimension"/>
+
+    <declare-styleable name="CustomTitleView">
+        <attr name="titleText" />
+        <attr name="titleTextColor" />
+        <attr name="titleTextSize" />
+        <attr name="paddingLeft" />
+        <attr name="paddingRight" />
+        <attr name="paddingTop" />
+        <attr name="paddingBottom" />
+        <attr name="backgroundColor" />
+        <attr name="padding" />
+    </declare-styleable>
+</resources>
