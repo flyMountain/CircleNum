@@ -22,7 +22,7 @@ compile 'com.github.flyMountain:CircleNum:1.0'
 titleText：文字描述 
 titleTextColor：文字颜色 
 titleTextSize：文字大小 
-padding：文字距圆编的距离 
+padding：文字距圆边的距离 
 backgroundColor：圆圈的颜色 
 paddingLeft、paddingRight、paddingTop、paddingBottom 距离四周的距离 
 
